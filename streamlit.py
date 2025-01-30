@@ -13,7 +13,7 @@ st.markdown("A streamlit dashboard to analyze tweets🦜")
 st.sidebar.markdown("A streamlit dashboard to analyze tweets🦜")
 
 
-Data_url = "C:/Users/kpree/Downloads/tweets.csv"
+Data_url = "path to your file tweets"
 
 @st.cache_data()
 def load_data():
