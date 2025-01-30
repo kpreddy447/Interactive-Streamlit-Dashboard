@@ -24,7 +24,7 @@ pip install streamlit pandas numpy plotly wordcloud matplotlib
 2. **Ensure all required dependencies are installed**
 
    ```sh
-   pip install -r ri
+   pip install -r requirments.txt
    ```
 
 3. **Run the Streamlit application**
